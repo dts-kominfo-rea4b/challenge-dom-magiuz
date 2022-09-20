@@ -1,0 +1,14 @@
+#todo-title{
+    text-align: center;
+    padding: 1px;
+    text-align: center;
+    background: aquamarine;
+    color: black;
+    font-size: 25px;
+    font-weight: bold; 
+}
+#todo-subtitle{
+    font-weight: bold; 
+    text-align: center;
+      
+}
